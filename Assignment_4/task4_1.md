@@ -1,0 +1,1 @@
+**This Python code attempts to open a file named 'tsk_1.txt' in read mode. It then tries to read and print the first 12 characters, followed by the next 15 characters from the file. If 'tsk_1.txt' does not exist, it catches the FileNotFoundError and prints an error message.**
